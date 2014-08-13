@@ -168,16 +168,16 @@ if(slidebool == 0 &amp;&amp; lightningAtkBool == 0){
         }
         else{
             if(sprite_index == garbJumpFlipRight){
-                sprite_index = garbygarb;
+                sprite_index = garbMan
             }
             else if(sprite_index == garbJumpFlipLeft){
-                sprite_index = garbygarb;
+                sprite_index = garbManLeft;
             }
             else if(sprite_index == garbManMove){
-                sprite_index = garbygarb;
+                sprite_index = garbMan;
             }
             else if(sprite_index == garbManMoveLeft){
-                sprite_index = garbygarb;
+                sprite_index = garbManLeft;
             }
         hspeed = 0;
         }

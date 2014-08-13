@@ -31,6 +31,7 @@
     <sprite>sprites\lightningArrowUpLeft2</sprite>
     <sprite>sprites\lightningBall</sprite>
     <sprite>sprites\garbygarb</sprite>
+    <sprite>sprites\garby</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -54,7 +55,7 @@
     <room>rooms\room1</room>
   </rooms>
   <constants number="2">
-    <constant name="GM_build_date">41863.738030787</constant>
+    <constant name="GM_build_date">41864.5293529514</constant>
     <constant name="GM_version">'1.0.0.0'</constant>
   </constants>
   <help>
